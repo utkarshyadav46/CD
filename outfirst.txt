@@ -1,0 +1,24 @@
+First E :{ ( #  } 
+First A :{ + 0  } 
+First T :{ ( #  } 
+First B :{ * 0  } 
+First F :{ ( #  } 
+
+Follow E: { $ )}
+Follow A: { $ )}
+Follow T: { + $ )}
+Follow B: { + $ )}
+Follow F: { * + $ )}
+
+
+First E :{ ( #  } 
+First A :{ + 0  } 
+First T :{ ( #  } 
+First B :{ * 0  } 
+First F :{ ( #  } 
+
+Follow E: { $ )}
+Follow A: { $ )}
+Follow T: { + $ )}
+Follow B: { + $ )}
+Follow F: { * + $ )}
