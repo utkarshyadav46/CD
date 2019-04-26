@@ -1,1 +1,19 @@
-hello buddy how are you ?
+#include<stdio.h>
+int main()
+{
+int a,b;
+int c;
+c=a+b;
+
+int i,j,k;
+i=i+1;
+j=j+1;
+d=a/b*c;
+
+t=a+b-c
+if(a<9)
+h=p;
+//hjhffds
+printf("hello world\n");
+return 0;
+}

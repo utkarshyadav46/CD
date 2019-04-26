@@ -1,0 +1,5 @@
+E->TX/T
+X->+TX/+T
+T->FY/F
+Y->*FY/*F
+F->(E)/i
